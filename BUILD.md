@@ -28,7 +28,7 @@ Set the `VERUS_Z3_PATH` environment variable to the path of the Z3 executable fi
 
 ### On Unix/macOS/Windows: Get a local Z3
 
-From `source`, use the script `./tools/get-z3.sh` (on Unix/macOs) or `./tools/get-z3.ps1` (on Windows) to download Z3.
+From `source`, use the script `./tools/get-z3.sh` (on Unix/macOs) or `./tools/get-z3.ps1` (on Windows) to copy Z3 from the repository's local `z3` directory.
 On Unix/macOS the cargo wrapper will correctly set the `VERUS_Z3_PATH` environment variable for the verifier to find Z3.
 If you run the verifier binary manually, set `VERUS_Z3_PATH` to `source/z3` or `source/z3.exe`.
 
