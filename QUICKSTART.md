@@ -99,7 +99,7 @@ The `examples` directory contains many example programs demonstrating various Ve
 
 If you encounter issues:
 
-1. Make sure you're using the correct Rust toolchain (specified in `rust-toolchain.toml`)
+1. Make sure you're using the correct Rust toolchain (1.91.0 as specified in `rust-toolchain.toml`)
 2. Ensure Z3 is downloaded and accessible at `source/z3` or `source/z3.exe`
 3. Always run from the `source` directory when using `vargo`
 4. Check that the `vargo` wrapper is in your PATH after running the activate script
