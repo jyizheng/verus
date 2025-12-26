@@ -5,3 +5,6 @@
 /.vscode/settings.json
 /.vscode/launch.json
 /.vscode/tasks.json
+source/doubly_linked_xor
+source/target-verus/
+source/z3
