@@ -5,3 +5,16 @@
 /.vscode/settings.json
 /.vscode/launch.json
 /.vscode/tasks.json
+source/doubly_linked_xor
+source/target-verus/
+source/z3
+# Exclude all compiled binaries from examples in source directory
+source/calc
+source/statements
+source/vectors
+source/basic_lock*
+source/generics
+source/bitmap
+source/even_cell
+source/test
+source/playground
